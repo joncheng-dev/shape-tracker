@@ -1,5 +1,13 @@
+body {
+  background-color: slategray;
+}
+
 h1 {
   text-align: center;
+}
+
+p {
+  font-size: large;
 }
 
 .btn {
