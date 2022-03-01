@@ -13,3 +13,10 @@ p {
 .btn {
   background-color: lightgray;
 }
+
+#output {
+  text-align: center;
+  font-size: larger;
+  background-color: yellow;
+  font-weight: bold;
+}
